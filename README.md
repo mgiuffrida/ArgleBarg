@@ -4,7 +4,7 @@
 
 Ana**pest**ic te**tram**eter **writ**ten as **source**,  
 it has **four** feet per **line**, and four **lines** to a **verse**.  
-Say "**=**"" as "**E**quals", but **si**lence for **dots**,  
+Say "**=**" as "**e**quals", but **si**lence for **dots**,  
 same with **com**mas and **col**ons, and **brack**ets in **spots**.
 
 ## Sample Usage
