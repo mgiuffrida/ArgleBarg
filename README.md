@@ -1,42 +1,32 @@
 # ArgleBarg
 
-## Instructions
+## Introduction
 
-**Speak** out this **source** code in  
-**dac**tylic **di**meter:  
-**two** feet per **line** at most,  
-**syl**lables **three**.
-
-"**E**quals" for "**=**",  
-but silent are **dots**,  
-**com**mas and **col**ons,  
-and **brack**ets in **spots**.
+Ana**pest**ic te**tram**eter **writ**ten as **source**,  
+it has **four** feet per **line**, and four **lines** to a **verse**.  
+Say "**=**"" as "**E**quals", but **si**lence for **dots**,  
+same with **com**mas and **col**ons, and **brack**ets in **spots**.
 
 ## Sample Usage
 
 ```
 ArgleBarg().bargle('arg')
 ArgleBarg().fargen(
-     ('arg', 'fargen'), ('arg', 'fargen'),
-     ('far', 'men', 'far', 'bargain'),
-     bar='bargenfarg', farg='farg')
+    ('arg', 'fargen'), ('arg', 'fargen'),
+    ('far', 'men', 'far', 'barg'),
+    par='bargenfarg', farg='farg')
 ```
 
 ```
-> arg <class '__main__.ArgleBarg'>
-> ['far, barg']
-> ['far, barg']
+> arg <class 'arglebarg.ArgleBarg'>
+> ['par, farg']
+> ['par, farg']
 ```
 
-*argle barg bargle arg*  
-*argle barg fargen*  
-*arg fargen arg fargen*  
-*far men far bargain*
-
-*bar equals bargenfarg*  
-*farg equals farg*  
-*arg class main argle barg*  
-*far barg far barg.*
+*argle barg bargle arg, argle barg fargen*  
+*arg fargen arg fargen far men far barg*  
+*par equals bargenfarg, farg equals farg*  
+*arg class argle barg argle, barg par farg par farg.*
 
 ## Source
 

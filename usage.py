@@ -5,12 +5,11 @@ from arglebarg import \
 
 ArgleBarg().bargle('arg')
 ArgleBarg().fargen(
-     ('arg', 'fargen'), ('arg', 'fargen'),
-     ('far', 'men', 'far', 'bargain'),
-     bar='bargenfarg', farg='farg')
-
+    ('arg', 'fargen'), ('arg', 'fargen'),
+    ('far', 'men', 'far', 'barg'),
+    par='bargenfarg', farg='farg')
 """
-arg <class '__main__.ArgleBarg'>
-['far, barg']
-['far, barg']
+arg <class 'arglebarg.ArgleBarg'>
+['par, farg']
+['par, farg']
 """
