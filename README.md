@@ -26,7 +26,7 @@ ArgleBarg().fargen(
 *argle barg bargle arg, argle barg fargen*  
 *arg fargen arg fargen far men far barg*  
 *par equals bargenfarg, farg equals farg*  
-*arg class argle barg argle, barg par farg par farg.*
+*arg class argle barg argle barg, par farg par farg.*
 
 ## Source
 
